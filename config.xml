@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.jakesnow.callsofbattler"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Calls of Battler</name>
+
+  <description>
+      An example for phonegap build docs.
+  </description>
+
+  <author href="https://scratch.mit.edu/projects/237472820/" email="support@phonegap.com">
+      Jakesnow
+  </author>
+	
+	<icon src="icon.png"></icon>
+
+</widget>
